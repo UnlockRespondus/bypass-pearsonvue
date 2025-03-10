@@ -16,7 +16,4 @@ telegram: [@bypassy](https://t.me/bypassy)
 
 discord: bypassy
 
-whatsapp: +44 7767328564
-
-skype: live:.cid.258b728263fb7085
 
